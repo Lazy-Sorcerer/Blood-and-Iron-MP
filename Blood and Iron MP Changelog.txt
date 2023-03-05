@@ -1,0 +1,6 @@
+Version 0.1
+-added a negotiated transfer casus belli
+-nerfed healthcare reforms, they now give 1/2/3/4 % bonus growth 
+-raised max military spending for anti-war and pacifist government to 81% and 51% respectively
+-raised min cap for army and navy stockpile spending to 20% and 30% respectively
+-added a settings file
